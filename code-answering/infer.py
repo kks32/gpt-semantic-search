@@ -1,4 +1,4 @@
-"""This is the logic for ingesting Notion data into LangChain."""
+"""This is the logic for ingesting data into LangChain."""
 from pathlib import Path
 from langchain.text_splitter import CharacterTextSplitter
 import faiss
